@@ -1,0 +1,15 @@
+# security.txt file for https://bowerycap.com/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2026-07-18T09:01:54-04:00
+
+# (optional) OpenPGP key:
+Encryption: https://bowerycap.com/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://bowerycap.com/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://bowerycap.com/hall-of-fame

@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+host: https://bowerycap.com
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  file: bowery-capital-security.txt
+  note: >-
+    Boilerplate securitytxt.org template served at the well-known path; Contact
+    is the placeholder user@example.com, the referenced Policy page
+    (/security-policy) returns 404, and Expiration is set to the fetch date. The
+    file is genuinely present on the wire but does not describe an operational
+    disclosure program, so no Security/VulnerabilityDisclosure pointer is emitted.
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

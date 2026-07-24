@@ -1,9 +1,29 @@
 aid: bowery-capital
 name: Bowery Capital
-description: 'Bowery Capital is a company surfaced as a portfolio company of foundry-group and added to
-  the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  Bowery Capital is a B2B-focused venture capital firm that leads Pre-Seed and
+  Seed rounds in founders "modernizing business through technology." It
+  concentrates on SaaS and marketplace companies, with particular interest in
+  vertical AI and back-office software, and takes lead-investor positions that
+  it supports hands-on through four pillars: Growth (go-to-market and sales
+  enablement), Talent (hiring, culture, and benefits), Business Development
+  (pipeline and customer introductions), and a Revenue Council advisory network
+  of operators. Surfaced in the API Evangelist network as a portfolio company of
+  Foundry Group. Bowery Capital is an investor rather than an API provider and
+  publishes no developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/bowery-capital/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://craft-bowerycap.transforms.svdcdn.com/production/Bowery-Capital.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1726265365&s=25c58ea0f8f94893b61742e9e7bdfa89
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Venture Capital
+- Investor
+- Seed
+- Pre-Seed
+- B2B
+- SaaS
+- Marketplaces
+- Vertical AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,26 @@ maintainers:
 common:
 - type: Website
   url: https://bowerycap.com
+- type: Blog
+  url: https://bowerycap.com/blog
+- type: Portfolio
+  url: https://bowerycap.com/portfolio
+- type: About
+  url: https://bowerycap.com/philosophy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/bowery-capital
+- type: Twitter
+  url: https://www.twitter.com/bowerycapital
+- type: DomainSecurity
+  url: security/bowery-capital-domain-security.yml
+- type: WellKnown
+  url: well-known/bowery-capital-well-known.yml
+- type: SecurityTxt
+  url: well-known/bowery-capital-security.txt
+- type: LLMsTxt
+  url: llms/bowery-capital-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,19 @@
+# Bowery Capital
+
+> Bowery Capital is a B2B-focused venture capital firm that leads Pre-Seed and Seed rounds in SaaS and marketplace founders "modernizing business through technology," with particular interest in vertical AI and back-office software. It backs companies hands-on through Growth, Talent, Business Development, and a Revenue Council advisory network. This is an API Evangelist network profile for the firm; Bowery Capital is an investor, not an API provider, so it publishes no developer API surface.
+
+## Firm
+- [Bowery Capital](https://bowerycap.com): Firm homepage.
+- [Philosophy](https://bowerycap.com/philosophy): Investment thesis and approach.
+- [Portfolio](https://bowerycap.com/portfolio): Companies Bowery Capital has backed.
+- [Insights](https://bowerycap.com/blog): Firm blog / content.
+- [Portfolio Jobs](https://bowerycap.com/portfolio-jobs): Open roles across the portfolio.
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/bowery-capital)
+- [Twitter](https://www.twitter.com/bowerycapital)
+- [Instagram](https://www.instagram.com/bowerycapital/?hl=en)
+
+## Notes
+- No public API, OpenAPI/AsyncAPI specification, SDK, MCP server, or developer documentation was found for Bowery Capital.
+- Investment focus: B2B SaaS & Marketplaces; stages: Pre-Seed & Seed; role: lead investor.
