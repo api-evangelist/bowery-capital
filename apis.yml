@@ -12,6 +12,9 @@ description: >-
   Foundry Group. Bowery Capital is an investor rather than an API provider and
   publishes no developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/bowery-capital/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Bowery Capital is an investor rather than an API provider and publishes no developer API surface."
 deliveryModel:
   model: unknown
   open_source: false
